@@ -1,4 +1,4 @@
-print("Write the number to convert to binary: ")
+print("Write the number in decimal system to convert to binary: ")
 number = int(input())
 list = []
 i = 0
